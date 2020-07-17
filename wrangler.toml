@@ -1,5 +1,5 @@
 name = "worker"
 type = "webpack"
 webpack_config = "webpack.config.js"
-account_id = ""
-zone_id = ""
+account_id = "c968f0981c8be250fe9f7fe046fa4311"
+zone_id = "d481794b5b50a1d9d00b1a862bd28594"

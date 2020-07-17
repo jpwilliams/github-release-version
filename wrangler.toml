@@ -1,0 +1,5 @@
+name = "worker"
+type = "webpack"
+webpack_config = "webpack.config.js"
+account_id = ""
+zone_id = ""
